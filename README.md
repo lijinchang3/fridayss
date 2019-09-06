@@ -48,5 +48,11 @@ password: my-secret-pw
 
 1. 本项目配有成套开发视频供参考 [http://www.sxbang.net/projects/128](http://www.sxbang.net/projects/128)
 
+
+6. 参考资料软件包
+复制这段内容后打开百度网盘手机App，操作更方便哦
+链接：https://pan.baidu.com/s/1a76sbeQ8u4OISC9X37EjFg 提取码：31Kx
+
+
 #### 如有帮助，请随手点击右上角的star，非常感谢。
 
