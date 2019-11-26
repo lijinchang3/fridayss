@@ -46,7 +46,7 @@ password: my-secret-pw
 
 #### 项目学习
 
-1. 本项目配有成套开发视频供参考 [http://www.sxbang.net/projects/128](http://www.sxbang.net/projects/128)
+1. 本项目配有成套开发视频供参考 [https://ke.qq.com/course/447325?flowToken=1015532](https://ke.qq.com/course/447325?flowToken=1015532)
 
 
 6. 参考资料软件包
